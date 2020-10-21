@@ -8,9 +8,6 @@ Change in branch2
 
 Changes to be stashed 
 
-<<<<<<< Updated upstream
 Changes made in master which will conflict in new branch
-=======
 
 Changes which will conflict with master branch
->>>>>>> Stashed changes
