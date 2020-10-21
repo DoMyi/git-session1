@@ -5,3 +5,5 @@ Committed for merge without conflict
 
 Change made in branch1
 Change in branch2
+
+Changes to be stashed 
