@@ -7,3 +7,5 @@ Change made in branch1
 Change in branch2
 
 Changes to be stashed 
+
+Changes made in master which will conflict in new branch
